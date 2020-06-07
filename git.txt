@@ -1,1 +1,2 @@
-conflict checker server versionconflict test local version
+conflict checker server version
+conflict test local version
